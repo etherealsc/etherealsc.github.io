@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604186664347",
+    "firebase_url": "https://hit381-card-game-default-rtdb.firebaseio.com",
+    "project_id": "hit381-card-game",
+    "storage_bucket": "hit381-card-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604186664347:android:0d533c46e9794498dad53e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UntitledCardGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604186664347-6rk5ds9jn503utv4qvj5obgugogd89mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjfFowhAOUL6CY6SYvkcaerBumQ06iYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604186664347-6rk5ds9jn503utv4qvj5obgugogd89mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
